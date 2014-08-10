@@ -1,0 +1,14 @@
+# -*- mode: conf -*-
+#
+# This desktop file is invoked by gnome-session and starts /usr/bin/gnome-session.
+#
+
+[Desktop Entry]
+Comment=Improved dynamic tiling window manager, registers with gnome session manager.
+Exec=i3-gnome
+Name=i3-gnome
+Type=Application
+X-GNOME-Autostart-Notify=false
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-WMName=i3

@@ -1,0 +1,13 @@
+# -*- mode: conf -*-
+#
+# i3-gnome.session - gnome-session configuration file.
+#
+# Instructs gnome-session to start gnome-settings-daemon and i3-gnome, both of which must have
+# desktop files with the same name under /usr/share/applications.
+#
+# See "man 1 gnome-session" for more details.
+#
+
+[GNOME Session]
+Name=i3-gnome
+RequiredComponents=unity-settings-daemon;i3-gnome;

@@ -1,0 +1,11 @@
+# -*- mode: conf -*-
+#
+# XSession configuration (shown in login managers)
+#
+
+[Desktop Entry]
+Comment=A GNOME fallback mode session using i3 as the window manager.
+Exec=gnome-session --session=i3-gnome
+Name=GNOME + i3
+TryExec=gnome-session
+Type=XSession
