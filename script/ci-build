@@ -3,16 +3,21 @@
 set -e
 set -x
 
+PATH_I3_GNOME="/usr/bin/i3-gnome"
+PATH_I3_GNOME_DESKTOP="/usr/share/applications/i3-gnome.desktop"
+PATH_I3_GNOME_SESSION="/usr/share/gnome-session/sessions/i3-gnome.session"
+PATH_I3_GNOME_XSESSION="/usr/share/xsessions/i3-gnome.desktop"
+
 #
 # Test installation
 #
 
 sudo make install
 
-test -f /usr/bin/i3-gnome
-test -f /usr/share/applications/i3-gnome.desktop
-test -f /usr/share/gnome-session/sessions/i3-gnome.session
-test -f /usr/share/xsession/i3-gnome.desktop
+test -f "${PATH_I3_GNOME}"
+test -f "${PATH_I3_GNOME_DESKTOP}"
+test -f "${PATH_I3_GNOME_SESSION}"
+test -f "${PATH_I3_GNOME_XSESSION}"
 
 #
 # Test uninstallation
@@ -20,7 +25,7 @@ test -f /usr/share/xsession/i3-gnome.desktop
 
 sudo make uninstall
 
-test ! -f /usr/bin/i3-gnome
-test ! -f /usr/share/applications/i3-gnome.desktop
-test ! -f /usr/share/gnome-session/sessions/i3-gnome.session
-test ! -f /usr/share/xsession/i3-gnome.desktop
+test ! -f "${PATH_I3_GNOME}"
+test ! -f "${PATH_I3_GNOME_DESKTOP}"
+test ! -f "${PATH_I3_GNOME_SESSION}"
+test ! -f "${PATH_I3_GNOME_XSESSION}"
