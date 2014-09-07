@@ -1,4 +1,4 @@
-# GitHub Quickstart
+# i3-gnome
 
 [![Build Status](http://img.shields.io/travis/lvillani/i3-gnome.svg?style=flat)](https://travis-ci.org/lvillani/vagrant-metadata)
 [![Gittip](http://img.shields.io/gittip/lvillani.svg?style=flat)](https://www.gittip.com/lvillani/)
