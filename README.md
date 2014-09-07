@@ -26,7 +26,7 @@ The PPA supports the following Ubuntu versions:
 * Ubuntu 12.04
 * Ubuntu 14.04
 
-Non-LTS are not supported and will never be.
+Non-LTS Ubuntu releases are not supported and will never be.
 
 
 ## Donating
