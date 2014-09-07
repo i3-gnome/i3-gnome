@@ -1,5 +1,5 @@
 Source: i3-gnome
-Section: unknown
+Section: gnome
 Priority: optional
 Maintainer: Lorenzo Villani <lorenzo@villani.me>
 Build-Depends: debhelper (>= 8.0.0)
