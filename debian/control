@@ -7,7 +7,7 @@ Standards-Version: 3.9.4
 Homepage: https://github.com/lvillani/i3-gnome
 
 Package: i3-gnome
-Architecture: any
+Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, desktop-file-utils, gnome-control-center, gnome-keyring, gnome-session
 Description: i3-wm + GNOME Session infrastructure
  This package adds a new session type "i3 + GNOME" which allows
