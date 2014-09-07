@@ -11,7 +11,7 @@ sudo make install
 
 test -f /usr/bin/i3-gnome
 test -f /usr/share/applications/i3-gnome.desktop
-test -f /usr/share/gnome-session/i3-gnome.session
+test -f /usr/share/gnome-session/sessions/i3-gnome.session
 test -f /usr/share/xsession/i3-gnome.desktop
 
 #
@@ -22,5 +22,5 @@ sudo make uninstall
 
 test ! -f /usr/bin/i3-gnome
 test ! -f /usr/share/applications/i3-gnome.desktop
-test ! -f /usr/share/gnome-session/i3-gnome.session
+test ! -f /usr/share/gnome-session/sessions/i3-gnome.session
 test ! -f /usr/share/xsession/i3-gnome.desktop
