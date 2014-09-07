@@ -1,0 +1,14 @@
+Source: i3-gnome
+Section: unknown
+Priority: optional
+Maintainer: Lorenzo Villani <lorenzo@villani.me>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: https://github.com/lvillani/i3-gnome
+
+Package: i3-gnome
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, desktop-file-utils, gnome-control-center, gnome-keyring, gnome-session
+Description: i3-wm + GNOME Session infrastructure
+ This package adds a new session type "i3 + GNOME" which allows
+ you to start i3-wm and use the GNOME 3 Session infrastructure.

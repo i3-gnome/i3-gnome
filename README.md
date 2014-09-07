@@ -1,52 +1,23 @@
-# i3-gnome
+# GitHub Quickstart
 
-Opinionated [i3](http://i3wm.org/) configuration with GNOME Session integration.
+[![Build Status](http://img.shields.io/travis/lvillani/i3-gnome.svg?style=flat)](https://travis-ci.org/lvillani/vagrant-metadata)
+[![Gittip](http://img.shields.io/gittip/lvillani.svg?style=flat)](https://www.gittip.com/lvillani/)
+[![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
-![Screenshot](misc/screenshot-clean.png)
+--------------------------------------------------------------------------------
 
+Allows you to use i3-wm with GNOME 3 Session infrastructure on Ubuntu 12.04 and Ubuntu 14.04.
 
-## Goodies
+## Usage
 
-* GNOME Session integration.
-* Icon font for i3status.
-* Monokai color theme for both i3 and i3bar.
-* Tweaked keyboard shortcuts.
-
-
-## Platform Support
-
-* Ubuntu 14.04.1
+    sudo add-apt-repository -y ppa:lvillani/i3-gnome
+    apt-get update
+    apt-get install -y i3-gnome
 
 
-## Installation
+## Donating
 
-First, make sure to have "git" and "make" installed:
+Support this project and [others by Lorenzo Villani](https://github.com/lvillani/) via
+[gittip](https://www.gittip.com/lvillani/).
 
-    sudo apt-get install -y git make
-
-Then, clone this repository somewhere:
-
-    cd ~/Downloads
-    git clone git://github.com/lvillani/i3-gnome.git
-    cd i3-gnome
-
-Install the dependencies:
-
-    sudo make install-deps
-
-Then install the whole thing:
-
-    sudo make install
-
-Now you can log-out of the current session. You will find a new session type called "GNOME + i3",
-choose it, log-in and you're done.
-
-If you later want to uninstall i3-gnome, run the following command:
-
-    sudo make uninstall
-
-
-## Credits
-
-"WTF!" wallpaper by [Agustín Lopini](http://agustinlopini.com.ar/) is licensed under
-[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Support via Gittip](https://cdn.rawgit.com/lvillani/gittip-badge/v1.0.0/dist/gittip.svg)](https://www.gittip.com/lvillani/)

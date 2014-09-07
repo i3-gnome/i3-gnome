@@ -1,9 +1,9 @@
 #!/bin/sh
 
 # Register with gnome-session so that it does not kill the whole session thinking it is dead.
-if [ -n "$DESKTOP_AUTOSTART_ID" ]; then
+test -n "$DESKTOP_AUTOSTART_ID" && {
 	dbus-send --session --dest=org.gnome.SessionManager "/org/gnome/SessionManager" org.gnome.SessionManager.RegisterClient "string:i3-gnome" "string:$DESKTOP_AUTOSTART_ID"
-fi
+}
 
 # Fix the missing cursor problem
 dconf write /org/gnome/settings-daemon/plugins/cursor/active false
@@ -12,9 +12,6 @@ dconf write /org/gnome/settings-daemon/plugins/cursor/active false
 gsettings set org.gnome.settings-daemon.plugins.xsettings overrides '@a{sv} {"Gtk/ShellShowsAppMenu": <int32 0>}'
 
 # Nautilus shall not handle the desktop.
-gsettings set org.gnome.desktop.background show-desktop-icons false
+# gsettings set org.gnome.desktop.background show-desktop-icons false
 
-# Set default background
-feh --bg-fill --no-fehbg "/usr/share/backgrounds/WTF-Monokai.png"
-
-exec i3 -c /etc/xdg/i3/config
+exec i3

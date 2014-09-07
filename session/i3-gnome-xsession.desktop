@@ -1,7 +1,4 @@
 # -*- mode: conf -*-
-#
-# XSession configuration (shown in login managers)
-#
 
 [Desktop Entry]
 Comment=A GNOME fallback mode session using i3 as the window manager.

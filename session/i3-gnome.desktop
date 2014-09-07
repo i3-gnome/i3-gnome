@@ -1,7 +1,4 @@
 # -*- mode: conf -*-
-#
-# This desktop file is invoked by gnome-session and starts /usr/bin/gnome-session.
-#
 
 [Desktop Entry]
 Comment=Improved dynamic tiling window manager, registers with gnome session manager.
