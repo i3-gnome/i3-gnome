@@ -2,4 +2,4 @@
 
 [GNOME Session]
 Name=i3-gnome
-RequiredComponents=unity-settings-daemon;i3-gnome;
+RequiredComponents=gnome-settings-daemon;i3-gnome;
