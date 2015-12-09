@@ -18,11 +18,10 @@ Install i3-gnome from its PPA:
 At this point you have to log-out from your current session. You should see a new session type
 called "i3 + GNOME" in your display manager. Choose it and log back in.
 
-__NOTE__: The PPA also contains i3 4.8 for Ubuntu Trusty.
+__NOTE__: The PPA also contains i3 4.11 for Ubuntu Trusty.
 
 The PPA supports the following Ubuntu versions:
 
-* Ubuntu 12.04
 * Ubuntu 14.04
 
 Non-LTS Ubuntu releases are not supported and will never be.
