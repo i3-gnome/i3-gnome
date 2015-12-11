@@ -8,7 +8,7 @@ Homepage: https://github.com/lvillani/i3-gnome
 
 Package: i3-gnome
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends},
+Depends: ${misc:Depends},
   desktop-file-utils,
   gnome-control-center,
   gnome-keyring,
@@ -21,7 +21,7 @@ Description: i3-wm + GNOME Session infrastructure
 
 Package: ubuntu-i3-desktop
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends},
+Depends: ${misc:Depends},
   compton,
   feh,
   i3-gnome,
