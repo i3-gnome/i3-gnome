@@ -1,3 +1,9 @@
+i3-gnome (1.2.1) precise; urgency=low
+
+  * Fix i3-gnome package contents.
+
+ -- Lorenzo Villani <lorenzo@villani.me>  Fri, 11 Dec 2015 19:44:00 +0100
+
 i3-gnome (1.2.0) precise; urgency=low
 
   * Use native Debian package (i.e.: don't require .orig.tar.gz file).
