@@ -1,26 +1,5 @@
-i3-gnome (1.2.1) precise; urgency=low
+i3-gnome (1.2.2) trusty; urgency=low
 
-  * Fix i3-gnome package contents.
+  * See the complete changelog at https://github.com/lvillani/i3-gnome
 
- -- Lorenzo Villani <lorenzo@villani.me>  Fri, 11 Dec 2015 19:44:00 +0100
-
-i3-gnome (1.2.0) precise; urgency=low
-
-  * Use native Debian package (i.e.: don't require .orig.tar.gz file).
-  * Add ubuntu-i3-desktop metapackage.
-
- -- Lorenzo Villani <lorenzo@villani.me>  Fri, 04 Dec 2015 17:12:00 +0100
-
-i3-gnome (1.1.0-1) precise; urgency=low
-
-  * Use gnome-settings-daemon instead of unity-settings-daemon.
-  * Register custom session with gnome-session.
-  * Add dependency on gnome-settings-daemon.
-
- -- Lorenzo Villani <lorenzo@villani.me>  Fri, 04 Dec 2015 17:12:00 +0100
-
-i3-gnome (1.0.0-1) precise; urgency=low
-
-  * Initial Release.
-
- -- Lorenzo Villani <lorenzo@villani.me>  Sun, 07 Sep 2014 05:55:26 -0700
+ -- Lorenzo Villani <lorenzo@villani.me>  Tue, 22 Dec 2015 20:43:00 +0100
