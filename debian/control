@@ -28,5 +28,6 @@ Depends: ${misc:Depends},
   i3-wm,
   i3status,
   kupfer,
+  rxvt-unicode-256color,
   ubuntu-gnome-desktop
 Description: Ubuntu i3-gnome desktop metapackage.
