@@ -5,7 +5,7 @@
 
 --------------------------------------------------------------------------------
 
-Allows you to use i3-wm with GNOME 3 Session infrastructure on Ubuntu 12.04 and Ubuntu 14.04.
+Allows you to use i3-wm with GNOME 3 Session infrastructure on Ubuntu 14.04.
 
 ## Usage
 
