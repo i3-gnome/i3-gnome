@@ -1,8 +1,9 @@
-# -*- mode: conf -*-
-
 [Desktop Entry]
-Comment=A GNOME fallback mode session using i3 as the window manager.
-Exec=gnome-session --session=i3-gnome
 Name=GNOME + i3
-TryExec=gnome-session
-Type=XSession
+Comment=This session logs you into GNOME with i3 as the window manager
+Exec=gnome-session --session=i3-gnome
+TryExec=i3-gnome
+Icon=
+Type=Application
+DesktopNames=Unity
+X-Ubuntu-Gettext-Domain=gnome-session-3.0

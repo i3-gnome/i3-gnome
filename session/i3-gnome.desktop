@@ -1,11 +1,10 @@
-# -*- mode: conf -*-
-
 [Desktop Entry]
-Comment=Improved dynamic tiling window manager, registers with gnome session manager.
-Exec=i3-gnome
-Name=i3-gnome
 Type=Application
-X-GNOME-Autostart-Notify=false
+Name=i3-gnome
+NoDisplay=true
+Comment=improved dynamic tiling window manager
+Exec=i3-gnome
+X-GNOME-WMName=i3-gnome
 X-GNOME-Autostart-Phase=WindowManager
 X-GNOME-Provides=windowmanager
-X-GNOME-WMName=i3
+X-GNOME-Autostart-Notify=false
