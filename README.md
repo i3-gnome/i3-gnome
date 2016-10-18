@@ -1,3 +1,7 @@
+# :warning: LOOKING FOR MAINTAINER :warning:
+
+I'm looking for a maintainer to take over this project. Feel free to email me if interested.
+
 # i3-gnome
 
 [![Build Status](http://img.shields.io/travis/lvillani/i3-gnome.svg?style=flat)](https://travis-ci.org/lvillani/i3-gnome)
