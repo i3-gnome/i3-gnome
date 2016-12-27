@@ -1,6 +1,6 @@
 # :warning: LOOKING FOR MAINTAINER :warning:
 
-I'm looking for a maintainer to take over this project. Feel free to email me if interested.
+I'm looking for a maintainer to take over this project. Send an email to <mailto:lorenzo@villani.me> if interested.
 
 # i3-gnome
 
