@@ -1,0 +1,8 @@
+RequiredComponents=unity-settings-daemon;gnome-panel;i3-gnome;
+
+# hide desktop 
+gsettings set org.gnome.desktop.background show-desktop-icons false
+
+# hide bottom panel
+gsettings set org.gnome.gnome-panel.layout toplevel-id-list "['top-panel-0']"
+
