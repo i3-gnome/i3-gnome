@@ -1,3 +1,0 @@
-#!/bin/sh
-
-sudo apt-get install coreutils make
