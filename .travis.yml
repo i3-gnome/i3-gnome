@@ -1,3 +1,0 @@
-language: c
-install: ./script/bootstrap
-script: ./script/ci-build
