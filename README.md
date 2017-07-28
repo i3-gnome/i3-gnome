@@ -10,13 +10,14 @@ Join to the [gitter](https://gitter.im/i3-gnome/Lobby) conversation and talk abo
 # Installation
 * For Arch users see the [AUR package](https://aur.archlinux.org/packages/i3-gnome/) for a more easy intallation.
 
-using `make`:
-    - download the repo.
-    - on the terminal go to the repo directory.
-    - `make install`.
+Using `make`:
+
+    * download the repo.
+    * on the terminal go to the repo directory.
+    * `make install`.
 
 # Usage
-* Tested flawlessy on Arch Linux with GNOME 3.24. (thanks for the comment of )
+* Tested flawlessy on Arch Linux with GNOME 3.24. (thanks for the comment from aur's website).
 * Please ubuntu ***(unity)*** users report any issue related.
 
 # Contributing
