@@ -5,4 +5,8 @@ test -n "$DESKTOP_AUTOSTART_ID" && {
     dbus-send --print-reply --session --dest=org.gnome.SessionManager "/org/gnome/SessionManager" org.gnome.SessionManager.RegisterClient "string:i3-gnome" "string:$DESKTOP_AUTOSTART_ID"
 }
 
-exec i3
+i3
+
+test -n "$DESKTOP_AUTOSTART_ID" && {
+dbus-send --print-reply --session --dest=org.gnome.SessionManager "/org/gnome/SessionManager" org.gnome.SessionManager.Logout "uint32:1"
+}
