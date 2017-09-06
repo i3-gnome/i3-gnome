@@ -1,7 +1,9 @@
 # i3-gnome [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
 Allows you to use i3-wm with GNOME 3 Session infrastructure.
-i3-gnome works by doing its function as a window manager (i3-wm) but still using GNOME as a desktop environment (using the sessions, daemons, like power manager) all in one session.
+
+*i3-gnome* works by doing its function as a window manager (*i3-wm*) but still using *GNOME* as a desktop environment (using the sessions, daemons, like power manager) all in one session.
+
 Also it helps you to maintain the gtk feel and other GNOME configs in a easy way.
 
 # Requirements
