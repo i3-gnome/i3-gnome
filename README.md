@@ -1,4 +1,4 @@
-# i3-gnome [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/) [![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]() 
+# i3-gnome [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/) [![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]() [Flagged out-of-date (2017-10-06)](https://github.com/lvillani/i3-gnome/issues/9)
 
 Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
