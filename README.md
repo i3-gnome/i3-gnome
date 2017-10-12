@@ -2,9 +2,9 @@
 
 Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
-**i3-gnome** works by doing its function as a window manager (i3-wm) but still using GNOME as a desktop environment (using the sessions, some services like power manager, audio, etc.) all in one session.
-
-Also it helps you to maintain the **gtk+** feel for the general software used in GNOME (such as **nautilus** and so on).
+# What to expect from this?
+With `i3-gnome` you get along with i3 (Window Manager) and GNOME (Desktop Environment) instead of metacity (the default window manager of GNOME).
+See [more](https://github.com/lvillani/i3-gnome/issues/10).
 
 # Requirements
 * i3-wm
@@ -13,19 +13,17 @@ Also it helps you to maintain the **gtk+** feel for the general software used in
 # Installation
 * For Arch users see the [AUR package](https://aur.archlinux.org/packages/i3-gnome/) for a more easy installation.
 
-Using `make`
-
-    * download the repo.
-    * on the terminal go to the repo directory.
-    * `make install`
+Using `make`:
+* download the repo.
+* on the terminal go to the repo directory.
+* `make install`
 
 # Usage Experience
-* Using flawlessy on Arch Linux with GNOME 3.24.2 (thanks for the comment from aur's website).
+* Using flawlessy on GNOME 3.26
 
 # Troubleshooting
 * Report issues.
-* Join to the [gitter](https://gitter.im/i3-gnome/Lobby) chat room.
-* General GNOME users report any issue related.
+* Join to [gitter](https://gitter.im/i3-gnome/Lobby).
 
 # Contributing
 We accept contributions. Any help is greatly appreciated.
