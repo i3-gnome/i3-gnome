@@ -4,6 +4,7 @@ Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
 # What exactly?
 With `i3-gnome` you get along with i3 (Window Manager) and GNOME (Desktop Environment) instead of metacity (the default window manager of GNOME).
+
 See [more](https://github.com/lvillani/i3-gnome/issues/10).
 
 # Requirements
@@ -28,6 +29,7 @@ exec --no-startup-id /usr/lib/gnome-settings-daemon/gsd-xsettings
 exec_always --no-startup-id gnome-power-manager
 ```
 And you'll have more integration about `GNOME Settings Daemon` and GNOME power manager.
+
 More about `gsd-xsettings` [here](https://bugs.archlinux.org/task/53800).
 
 # Troubleshooting
