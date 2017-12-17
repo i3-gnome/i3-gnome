@@ -5,5 +5,5 @@ Exec=gnome-session --session=i3-gnome
 TryExec=i3-gnome
 Icon=
 Type=Application
-DesktopNames=Unity
+DesktopNames=GNOME
 X-Ubuntu-Gettext-Domain=gnome-session-3.0

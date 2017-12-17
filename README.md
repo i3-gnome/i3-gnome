@@ -2,7 +2,7 @@
 
 Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
-# What to expect from this?
+# What exactly?
 With `i3-gnome` you get along with i3 (Window Manager) and GNOME (Desktop Environment) instead of metacity (the default window manager of GNOME).
 See [more](https://github.com/lvillani/i3-gnome/issues/10).
 
@@ -18,8 +18,8 @@ Using `make`:
 * on the terminal go to the repo directory.
 * `make install`
 
-# Usage Experience
-* Using flawlessy on GNOME 3.26
+# State
+* Using flawlessy on GNOME 3.26.2
 
 # Tips & Tricks
 Add this lines to your `~/.config/i3/config`:
@@ -32,11 +32,8 @@ More about `gsd-xsettings` [here](https://bugs.archlinux.org/task/53800).
 
 # Troubleshooting
 * Report issues.
-* Join to [gitter](https://gitter.im/i3-gnome/Lobby).
+* Visit all the closed issues (mostly FAQ). 
 
 # Contributing
 We accept contributions. Any help is greatly appreciated.
-
-For smaller patches and bug fixes just go ahead and either report an issue or submit a pull
-request.
 
