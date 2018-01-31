@@ -43,4 +43,4 @@ More about `gsd-xsettings` [here](https://bugs.archlinux.org/task/53800).
 We accept contributions. Any help is greatly appreciated.
 
 ---
-MIT - (c) 2014 (Lorenzo Villani)[https://github.com/lvillani]
+MIT - (c) 2014 [Lorenzo Villani](https://github.com/lvillani)
