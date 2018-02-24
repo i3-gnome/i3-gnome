@@ -1,4 +1,4 @@
-# i3-gnome [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/) [![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)]()
+# i3-gnome [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://choosealicense.com/licenses/mit/) [![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)]()
 
 Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
@@ -7,9 +7,10 @@ Allows you to use i3-wm with GNOME 3 Session infrastructure.
 * GNOME (3.26.x {latest})
 * gdm
 
-# Installation
-* For Arch users see the [AUR package](https://aur.archlinux.org/packages/i3-gnome/) for a more easy installation.
+# Packages
+[![i3-gnome](https://img.shields.io/aur/version/i3-gnome.svg?label=i3-gnome)](https://aur.archlinux.org/packages/i3-gnome/)
 
+# Installation from scratch
 Using `make`:
 * download the repo.
 * on the terminal go to the repo directory.
@@ -23,8 +24,10 @@ Using `make`:
 Visit our [wiki](https://github.com/51v4n/i3-gnome/wiki) to get reference and more information about.
 (Currently under construction)
 
-# Contributing
-We accept contributions. Any help is greatly appreciated.
+# How can i help?
+* Open issues on things that are broken.
+* Fix open issues by sending PRs.
+* Add documentation.
 
 ---
 MIT - © 2014 [Lorenzo Villani](https://github.com/lvillani).
