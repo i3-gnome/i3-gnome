@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=GNOME + i3
 Comment=This session logs you into GNOME with i3 as the window manager
-Exec=gnome-session --session=i3-gnome
+Exec=gnome-session-i3
 TryExec=i3-gnome
 Icon=
 Type=Application
