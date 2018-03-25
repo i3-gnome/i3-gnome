@@ -4,7 +4,7 @@ Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
 # Requirements
 * i3-wm
-* GNOME (3.26.x {latest})
+* GNOME (3.28.0)
 * gdm
 
 # Packages
