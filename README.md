@@ -18,7 +18,7 @@ Using `make`:
 
 # Troubleshooting
 * Report issues.
-* Visit all the closed issues (mostly FAQ). 
+* Visit our [FAQ](https://github.com/51v4n/i3-gnome/issues?q=is%3Aissue+sort%3Aupdated-desc+is%3Aclosed+label%3AFAQ).
 
 # Wiki
 Visit our [wiki](https://github.com/51v4n/i3-gnome/wiki) to get reference and more information about.
