@@ -6,6 +6,7 @@ Allows you to use i3-wm with GNOME 3 Session infrastructure.
 * i3-wm
 * GNOME (3.28.x)
 * GDM
+* [GNOME Flashback](https://github.com/jcstr/i3-gnome/wiki/Tips-&-Tricks#gnome-flashback)
 
 ## Packages
 [![i3-gnome](https://img.shields.io/aur/version/i3-gnome.svg?label=i3-gnome)](https://aur.archlinux.org/packages/i3-gnome/)
