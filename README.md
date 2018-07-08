@@ -1,11 +1,11 @@
-# i3-gnome [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://choosealicense.com/licenses/mit/) [![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)]()
+# i3-gnome [![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)]()
 
 Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
 ## Requirements
 * i3-wm
 * GNOME (3.28.x)
-* GDM
+* GDM (optional, but useful)
 * [GNOME Flashback](https://github.com/jcstr/i3-gnome/wiki/Tips-&-Tricks#gnome-flashback)
 
 ## Packages
