@@ -15,7 +15,7 @@ Allows you to use i3-wm with GNOME 3 Session infrastructure.
 Using `make`:
 * download the repo.
 * on the terminal go to the repo directory.
-* `make install`
+* `sudo make install`
 
 ## Troubleshooting
 * Report issues.
