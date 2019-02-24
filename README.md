@@ -25,11 +25,6 @@ Using `make`:
 Visit our [wiki](https://github.com/51v4n/i3-gnome/wiki) to get reference and more information about.
 * [Tips & Tricks](https://github.com/51v4n/i3-gnome/wiki/Tips-&-Tricks)
 
-## How can i help?
-* Open issues on things that are broken.
-* Fix open issues by sending PRs.
-* Add documentation.
-
 ---
 MIT - © 2014 [Lorenzo Villani](https://github.com/lvillani).
 
