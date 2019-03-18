@@ -7,6 +7,7 @@ test -n "$DESKTOP_AUTOSTART_ID" && {
 
 i3
 
+# Logout process.
 test -n "$DESKTOP_AUTOSTART_ID" && {
-dbus-send --print-reply --session --dest=org.gnome.SessionManager "/org/gnome/SessionManager" org.gnome.SessionManager.Logout "uint32:1"
+	dbus-send --print-reply --session --dest=org.gnome.SessionManager "/org/gnome/SessionManager" org.gnome.SessionManager.Logout "uint32:1"
 }
