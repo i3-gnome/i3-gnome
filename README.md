@@ -30,5 +30,4 @@ Visit our [wiki](https://github.com/51v4n/i3-gnome/wiki) to get reference and mo
 * [Tips & Tricks](https://github.com/51v4n/i3-gnome/wiki/Tips-&-Tricks)
 
 ---
-MIT - © 2014 [Lorenzo Villani](https://github.com/lvillani).
-
+MIT - © 2014-2017 [Lorenzo Villani](https://github.com/lvillani). 2017 [Jesús Castro](https://github.com/csxr).
