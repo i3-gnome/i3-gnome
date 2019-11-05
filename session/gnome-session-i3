@@ -1,2 +1,9 @@
 #! /bin/sh
-env GNOME_SHELL_SESSION_MODE=classic gnome-session --builtin --session i3-gnome "$@"
+gnome-session --help 2>/dev/null | grep -- --builtin > /dev/null
+HASBUILTIN=$?
+if [ $HASBUILTIN -eq 0 ]; then
+    BUILTINARG="--builtin"
+else
+    BUILTINARG=""
+fi
+echo env GNOME_SHELL_SESSION_MODE=classic gnome-session $BUILTINARG --session i3-gnome "$@"
