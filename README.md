@@ -2,6 +2,11 @@
 
 Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
+
+## What do I'll get by installing it?
+> In order to manage things your cursor/icon themes, online accounts, etc.
+
+
 ## Requirements
 * i3-wm
 * GNOME (3.34.x)
