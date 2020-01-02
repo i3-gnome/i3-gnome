@@ -1,4 +1,8 @@
-# i3-gnome [![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)]()
+# i3-gnome [![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)]()
+
+<p align="center">
+  <img src="https://i.imgur.com/Ia1pJUK.png" width="45%" height="45%">
+</p>
 
 Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
@@ -36,3 +40,4 @@ Visit our [wiki](https://github.com/i3-gnome/i3-gnome/wiki) to get reference and
 
 ---
 MIT - © 2014-2017 [Lorenzo Villani](https://github.com/lvillani). 2017 i3-gnome team.
+
