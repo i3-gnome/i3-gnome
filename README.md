@@ -13,7 +13,7 @@ Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
 ## Requirements
 * i3-wm
-* GNOME (3.34.x)
+* GNOME (3.36.x)
 * GDM (optional, but useful)
 * [GNOME Flashback](https://github.com/i3-gnome/i3-gnome/wiki/Tips-&-Tricks#gnome-flashback)
 
