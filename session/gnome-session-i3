@@ -6,4 +6,4 @@ if [ $HASBUILTIN -eq 0 ]; then
 else
     BUILTINARG=""
 fi
-env GNOME_SHELL_SESSION_MODE=classic gnome-session $BUILTINARG --session i3-gnome "$@"
+gnome-session $BUILTINARG --session i3-gnome "$@"
