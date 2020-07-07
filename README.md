@@ -1,15 +1,15 @@
-# i3-gnome [![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)]()
+# i3wm + GNOME [![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)]()
 
 <p align="center">
   <img src="https://i.imgur.com/Ia1pJUK.png" width="45%" height="45%">
 </p>
 
-Allows you to use i3-wm with GNOME 3 Session infrastructure.
-
+Allows you to use i3wm with GNOME 3 Session infrastructure.
 
 ## What do I'll get by installing it?
-> In order to manage things your cursor/icon themes, online accounts, etc.
-
+- In order to manage GNOME things like your cursor/icon (GTK) themes, online accounts.
+- Is a friendly bridge that keep your stuff from GNOME to have it over i3.
+- Useful for the ones that are getting started with i3wm but doesn't want to uninstall the current desktop environment.
 
 ## Requirements
 * i3-wm
@@ -22,8 +22,8 @@ Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
 ## Installation from scratch
 Using `make`:
-* download the repo.
-* on the terminal go to the repo directory.
+* `git clone git@github.com:i3-gnome/i3-gnome.git`.
+* `cd i3-gnome`
 * `sudo make install`
 
 ## Contributing
