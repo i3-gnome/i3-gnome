@@ -12,10 +12,9 @@ Allows you to use i3wm with GNOME 3 Session infrastructure.
 - Useful for the ones that are getting started with i3wm but doesn't want to uninstall the current desktop environment.
 
 ## Requirements
-* i3-wm
-* GNOME (3.36.x)
+* i3-wm/i3-gaps
+* GNOME (3.38.x)
 * GDM (optional, but useful)
-* [GNOME Flashback](https://github.com/i3-gnome/i3-gnome/wiki/Tips-&-Tricks#gnome-flashback)
 
 ## Packages
 [![i3-gnome](https://img.shields.io/aur/version/i3-gnome.svg?label=i3-gnome)](https://aur.archlinux.org/packages/i3-gnome/)
@@ -37,6 +36,7 @@ Using `make`:
 ## Wiki
 Visit our [wiki](https://github.com/i3-gnome/i3-gnome/wiki) to get reference and more information about.
 * [Tips & Tricks](https://github.com/i3-gnome/i3-gnome/wiki/Tips-&-Tricks)
+* [GNOME Flashback](https://github.com/i3-gnome/i3-gnome/wiki/Tips-&-Tricks#gnome-flashback)
 
 ---
 MIT - © 2014-2017 [Lorenzo Villani](https://github.com/lvillani). 2017 i3-gnome team.
