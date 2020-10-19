@@ -6,10 +6,10 @@
 
 Allows you to use i3wm with GNOME 3 Session infrastructure.
 
-## What do I'll get by installing it?
-- In order to manage GNOME things like your cursor/icon (GTK) themes, online accounts.
-- Is a friendly bridge that keep your stuff from GNOME to have it over i3.
-- Useful for the ones that are getting started with i3wm but doesn't want to uninstall the current desktop environment.
+## What do I get by installing it?
+- In order to manage GNOME things such as your cursor/icon, (GTK) themes and online accounts.
+- A friendly bridge that keeps your stuff from GNOME in an i3 environment.
+- Useful for people that are getting started with i3wm, but don't want to uninstall their current desktop environment.
 
 ## Requirements
 * i3-wm/i3-gaps
@@ -34,10 +34,10 @@ Using `make`:
 * [Questions](https://github.com/i3-gnome/i3-gnome/labels/question).
 
 ## Wiki
-Visit our [wiki](https://github.com/i3-gnome/i3-gnome/wiki) to get reference and more information about.
+Visit our [wiki](https://github.com/i3-gnome/i3-gnome/wiki) to get references and more information about the project.
 * [Tips & Tricks](https://github.com/i3-gnome/i3-gnome/wiki/Tips-&-Tricks)
 * [GNOME Flashback](https://github.com/i3-gnome/i3-gnome/wiki/Tips-&-Tricks#gnome-flashback)
 
 ---
-MIT - © 2014-2017 [Lorenzo Villani](https://github.com/lvillani). 2017 i3-gnome team.
+MIT - © 2014-2020 [Lorenzo Villani](https://github.com/lvillani). 2020 i3-gnome team.
 
