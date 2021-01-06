@@ -1,4 +1,4 @@
-# i3wm + GNOME [![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)]()
+# i3wm + GNOME [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg)]()
 
 <p align="center">
   <img src="https://i.imgur.com/Ia1pJUK.png" width="45%" height="45%">
