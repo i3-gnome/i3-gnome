@@ -13,13 +13,13 @@ Allows you to use i3wm with GNOME 3 Session infrastructure.
 
 ## Requirements
 * i3-wm/i3-gaps
-* GNOME (3.38.x)
+* GNOME (40.x)
 * GDM (optional, but useful)
 
 ## Packages
 [![i3-gnome](https://img.shields.io/aur/version/i3-gnome.svg?label=i3-gnome)](https://aur.archlinux.org/packages/i3-gnome/)
 
-## Installation from scratch
+## Installation using make
 Using `make`:
 * `git clone git@github.com:i3-gnome/i3-gnome.git`.
 * `cd i3-gnome`
