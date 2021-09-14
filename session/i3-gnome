@@ -5,6 +5,11 @@ test -n "$DESKTOP_AUTOSTART_ID" && {
     dbus-send --print-reply --session --dest=org.gnome.SessionManager "/org/gnome/SessionManager" org.gnome.SessionManager.RegisterClient "string:i3-gnome" "string:$DESKTOP_AUTOSTART_ID"
 }
 
+# Support for merging .Xresources
+test -e $HOME/.Xresources && {
+    xrdb -merge $HOME/.Xresources
+}
+
 i3
 
 # Logout process.
