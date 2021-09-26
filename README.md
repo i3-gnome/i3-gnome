@@ -21,7 +21,7 @@ Allows you to use i3wm with GNOME 3 Session infrastructure.
 
 ## Installation using make
 Using `make`:
-* `git clone git@github.com:i3-gnome/i3-gnome.git`.
+* `git clone https://github.com/i3-gnome/i3-gnome.git`
 * `cd i3-gnome`
 * `sudo make install`
 
