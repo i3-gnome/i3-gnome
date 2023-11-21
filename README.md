@@ -1,18 +1,9 @@
 # i3wm + GNOME [![Maintenance](https://img.shields.io/maintenance/yes/2022.svg)]()
 
 ---
-## ⚠️ Are you looking for your first contribution to Open Source?
-We are looking for a new co-maintainer for this project. If you're a newcomer to Open Source we'll happily invite to help you get started.
+## ⚠️⚠️⚠️ This project is no longer maintained
 
-This is the roadmap we have planned so far for this year:
-
-- Welcome a new maintainer (specially if it's a newcomer).
-
-- Improve the wiki. We can either set up a GitHub Page or improve the wiki section.
-
-- Add packages for Fedora and Ubuntu. Currently, we have the AUR Arch Linux package.
-
-If this sounds good to you then open an issue and on the title put: "I want to help on this project".
+Thank you for your attention and support but this project is no longer supported and is currently archived.
 
 ---
 
